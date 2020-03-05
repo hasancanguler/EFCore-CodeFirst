@@ -1,0 +1,11 @@
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\bin\Debug\netcoreapp2.2\EFCoreDAL.deps.json
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\bin\Debug\netcoreapp2.2\EFCoreDAL.dll
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\obj\Debug\netcoreapp2.2\EFCoreDAL.csprojAssemblyReference.cache
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\obj\Debug\netcoreapp2.2\EFCoreDAL.csproj.CoreCompileInputs.cache
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\obj\Debug\netcoreapp2.2\EFCoreDAL.AssemblyInfoInputs.cache
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\obj\Debug\netcoreapp2.2\EFCoreDAL.AssemblyInfo.cs
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\bin\Debug\netcoreapp2.2\EFCoreDAL.pdb
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\obj\Debug\netcoreapp2.2\EFCoreDAL.dll
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\obj\Debug\netcoreapp2.2\EFCoreDAL.pdb
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\bin\Debug\netcoreapp2.2\EFCoreDAL.runtimeconfig.json
+C:\PProjects\CoreEF\EFCoreDAL\EFCoreDAL\bin\Debug\netcoreapp2.2\EFCoreDAL.runtimeconfig.dev.json
